@@ -1,0 +1,56 @@
+Nome do aluno:
+
+Disciplina: 		 Data:
+
+
+Ser ou não ser...
+
+	Alternativa a) Huuuuuuum... Bixa!
+
+	Alternativa b) Eis a questão
+
+	Alternativa c) Vsf com Hamlet
+
+	Alternativa d) prefiro pagode!
+
+	Alternativa e) hã?
+
+
+o NetBeans é bom?
+
+	Alternativa a) Obvio que não!
+
+	Alternativa b) NÃO!!!!
+
+	Alternativa c) é rídiculo!
+
+	Alternativa d) é ótimo!!
+
+	Alternativa e) sei lá!
+
+
+Quanto é 2 + 2?
+
+	Alternativa a) 4
+
+	Alternativa b) 2
+
+	Alternativa c) 22
+
+	Alternativa d) 135345636
+
+	Alternativa e) 2²
+
+
+Quantos titulos da copa das confederações o Brasil possui?
+
+	Alternativa a) 1
+
+	Alternativa b) 2
+
+	Alternativa c) 3
+
+	Alternativa d) 4
+
+	Alternativa e) 5
+
